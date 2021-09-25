@@ -1,4 +1,4 @@
-<span id="a">code@nerve</span>:<span id="b">~</span><span id="c">$</span> cd Biplop-Pc/<!-- hello world-->About_me
+<span id="a">code@nerve</span>:<span id="b">~</span><span id="c">$</span> cd Biplop-Pc/Home/Documents/Portflio <br> ls ..<!---->About_me
 <span id="a">coder@nerve</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->codenerve.txt<br/><br/>
 My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
 
