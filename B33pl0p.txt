@@ -6,8 +6,8 @@ root@Biplop_Pc:~/Home/Documents/Personal_info# sudo nano projects.txt
  I don't have anything more to show for now xD.
  <br> </br>
  root@Biplop_Pc:~/Home/Documents/Personal_info# sudo nano contact.txt <br> </br>
- feel free to send me an email  <a href="biplopgiri120@gmail.com">Here</a> <br> </br>
+ feel free to send me an email at : biplopgiri120@gmail.com
  <a href="https://www.facebook.com/b33plop/">Facebook </a> <br> </br>
  <a href="https://www.instagram.com/b33pl0p/">Instagram </a> <br> </br>
- root@Biplop_Pc:~/Home/Documents/Personal_info# exit
+exitting terminal..
 
