@@ -1,5 +1,5 @@
 <p>
-root@Biplop_Pc:~# cd /Home/Documents/Personal_info/ <br> </br> root@Biplop_Pc:~/Home/Documents/Personal_info# sudo nano personal details.txt <br> </br> Name : Biplop Giri <br> </br> GENDER : Male <br> </br> DOB : 2002/01/02 <br> </br> Permanent address : Ilam Nepal <br> </br> Residental Address : Kathmandu, Nepal <br> </br> cd ..  <br> </br> root@Biplop_Pc:~/Home/Documents/Personal_info# sudo nano education.txt <br> </br> SEE : Mahananda Shikshya Sadan , Budhabare , Jhapa. <br> </br> +2 : NIDI secondary school, Birtamod. <br> </br> CURRENT : Advanced College of Engineering, Kupondole Lalitpur. <br> </br> cd ..  <br> </br>
+root@Biplop_Pc:~# cd /Home/Documents/Personal_info/ <br> </br> root@Biplop_Pc:~/Home/Documents/Personal_info# sudo nano personal details.txt <br> </br> Name : Biplop Giri <br> </br> GENDER : Male <br> </br> DOB : 2002/01/02 <br> </br> Permanent address : Ilam Nepal <br> </br> Residental Address : Kathmandu, Nepal <br> </br> cd ..  <br> </br> root@Biplop_Pc:~/Home/Documents/Personal_info# sudo nano education.txt <br> </br> SEE : Mahananda Shikshya Sadan , Budhabare , Jhapa. <br> </br> +2 : NIDI secondary school, Birtamod. <br> </br> CURRENT : Advanced College of Engineering, Kalanki. <br> </br> cd ..  <br> </br>
 root@Biplop_Pc:~/Home/Documents/Personal_info# sudo nano projects.txt 
  <a href="https://github.com/B33pl0p/Mini-Bank-management-system-in-C"> My mini C project link</a>
  <br> </br> 
@@ -10,5 +10,6 @@ root@Biplop_Pc:~/Home/Documents/Personal_info# sudo nano projects.txt
  feel free to send me an email at : biplopgiri120@gmail.com
  <a href="https://www.facebook.com/b33plop/">Facebook </a> <br> </br>
  <a href="https://www.instagram.com/bee__plop/">Instagram </a> <br> </br>
-exitting terminal.. </p>
+exitting terminal.. <br> </br>
+</p>
 
